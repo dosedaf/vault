@@ -112,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kasaran/Blockchain Dev.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Blockchain Dev"
             }
           },
           {
@@ -126,7 +127,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -137,9 +140,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Kasaran/Blockchain Dev.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Blockchain Dev"
             }
           },
           {
@@ -170,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70704b9b9ed53b9b",
+  "active": "678c5fca33b823c6",
   "lastOpenFiles": [
     "Kasaran/Blockchain Dev.md",
     "Keywords/Web3/Smart Contracts.md",
