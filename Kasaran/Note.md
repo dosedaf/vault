@@ -1,0 +1,3 @@
+attribut luas()
+method hitungLuas()
+

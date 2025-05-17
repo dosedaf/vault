@@ -1,0 +1,1 @@
+	Invidual, tricking system into thinking they're multiple people to increase influence

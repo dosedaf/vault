@@ -1,4 +1,6 @@
 [
   "obsidian-clipper",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-wakatime",
+  "obsidian-discordrpc"
 ]
