@@ -1,3 +1,0 @@
-attribut luas()
-method hitungLuas()
-
