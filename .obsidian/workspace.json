@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blockchain/Contents/CeDeFi CDP USDa.md",
+                "file": "Machine Learning/Machine Learning for Everybody - Kylie Ying/1. K-Nearest Neighbors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CeDeFi CDP USDa"
+              "title": "1. K-Nearest Neighbors"
             }
           }
         ],
@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Machine Learning/Machine Learning for Everybody - Kylie Ying/1. K-Nearest Neighbors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 1. K-Nearest Neighbors"
             }
           },
           {
@@ -195,8 +196,34 @@
   },
   "active": "4768562353b74699",
   "lastOpenFiles": [
-    "Blockchain/Kasaran/Avalon.md",
+    "Machine Learning/Machine Learning for Everybody - Kylie Ying/1. K-Nearest Neighbors.md",
+    "HammingDistance.png",
+    "MinkowskiDistance.png",
+    "EuclideanDistance.png",
+    "Pasted image 20250805192334.png",
+    "Machine Learning/Machine Learning for Everybody - Kylie Ying/2. Naive Bayes.md",
+    "Machine Learning/Machine Learning for Everybody - Kylie Ying/Neural Networks.md",
+    "Machine Learning/Machine Learning for Everybody - Kylie Ying/Bothers.md",
+    "().md",
+    "Machine Learning/Machine Learning for Everybody - Kylie Ying/Rough.md",
+    "Machine Learning/Machine Learning for Everybody - Kylie Ying/SVM.md",
+    "Pasted image 20250805105010.png",
+    "Pasted image 20250805105000.png",
+    "Pasted image 20250805102912.png",
+    "Pasted image 20250805102902.png",
+    "Pasted image 20250805102852.png",
+    "Pasted image 20250805102841.png",
+    "Machine Learning/Math/Linear Algebra/2. Linear Transformations and Matrices.md",
+    "Machine Learning/Math/Linear Algebra/1. Vectors.md",
+    "Machine Learning/Machine Learning for Everybody - Kylie Ying",
+    "Machine Learning/Math/Linear Algebra",
+    "Machine Learning/Assets",
+    "Images",
+    "Machine Learning/Linear Algebra/Essence of Linear Algebra",
     "Blockchain/Contents/CeDeFi CDP USDa.md",
+    "Machine Learning/Math",
+    "Machine Learning",
+    "Blockchain/Kasaran/Avalon.md",
     "Blockchain/Kasaran/Coin Token.md",
     "Blockchain/Kasaran/Dex - On Chain Class 260425.md",
     "Blockchain/Contents/Smart Contracts.md",
@@ -212,28 +239,8 @@
     "Blockchain/Contents/Proof-of-stake.md",
     "Blockchain/Contents/Consensus Mechanism.md",
     "Blockchain/Contents/DEX.md",
-    "Blockchain/C.md",
     "Blockchain/Contents",
     "Blockchain/Contents",
-    "Blockchain/Keywords/Price Impact.md",
-    "Blockchain/Keywords/Sybil Attack.md",
-    "Blockchain/Keywords/Proof-of-work.md",
-    "Blockchain/Keywords/Proof of State.md",
-    "Blockchain/Keywords/Proof of Liquidity.md",
-    "Blockchain/Keywords/Proof of History.md",
-    "Blockchain/Blockchain Dev.md",
-    "Web3/Untitled.md",
-    "Blockchain/Keywords",
-    "Blockchain",
-    "Untitled.md",
-    "Keyword/Web3",
-    "Keyword",
-    "Untitled.canvas",
-    "Diary",
-    "Keywords/Web3",
-    "Notes/Web3",
-    "Pasted image 20241228153148.png",
-    "Pasted image 20241228153204.png",
-    "Pasted image 20241228153216.png"
+    "Untitled.canvas"
   ]
 }
