@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Machine Learning for Everybody - Kylie Ying/0. Intro.md",
+                "file": "Machine Learning/Machine Learning for Everybody - Kylie Ying/1. K-Nearest Neighbors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Intro"
+              "title": "1. K-Nearest Neighbors"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Machine Learning for Everybody - Kylie Ying/0. Intro.md",
+                "file": "Machine Learning/Machine Learning for Everybody - Kylie Ying/1. K-Nearest Neighbors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0. Intro"
+              "title": "Backlinks for 1. K-Nearest Neighbors"
             }
           },
           {
@@ -196,13 +196,15 @@
   },
   "active": "4768562353b74699",
   "lastOpenFiles": [
-    "Machine Learning/Machine Learning for Everybody - Kylie Ying/5. Neural Networks.md",
-    "Machine Learning/Machine Learning for Everybody - Kylie Ying/Bothers.md",
-    "Machine Learning/Machine Learning for Everybody - Kylie Ying/4.  Support Vector Machine.md",
-    "Machine Learning/Machine Learning for Everybody - Kylie Ying/3. Logistic Regression.md",
     "Machine Learning/Machine Learning for Everybody - Kylie Ying/2. Naive Bayes.md",
-    "Machine Learning/Machine Learning for Everybody - Kylie Ying/0. Intro.md",
+    "Machine Learning/Machine Learning for Everybody - Kylie Ying/3. Logistic Regression.md",
+    "Machine Learning/Machine Learning for Everybody - Kylie Ying/4.  Support Vector Machine.md",
+    "Machine Learning/Machine Learning for Everybody - Kylie Ying/5. Neural Networks.md",
     "Machine Learning/Machine Learning for Everybody - Kylie Ying/1. K-Nearest Neighbors.md",
+    "Machine Learning/Math/Linear Algebra/2. Linear Transformations and Matrices.md",
+    "Machine Learning/Math/Linear Algebra/1. Vectors.md",
+    "Machine Learning/Machine Learning for Everybody - Kylie Ying/0. Intro.md",
+    "Machine Learning/Machine Learning for Everybody - Kylie Ying/Bothers.md",
     "HammingDistance.png",
     "MinkowskiDistance.png",
     "EuclideanDistance.png",
@@ -214,8 +216,6 @@
     "Pasted image 20250805102902.png",
     "Pasted image 20250805102852.png",
     "Pasted image 20250805102841.png",
-    "Machine Learning/Math/Linear Algebra/2. Linear Transformations and Matrices.md",
-    "Machine Learning/Math/Linear Algebra/1. Vectors.md",
     "Machine Learning/Machine Learning for Everybody - Kylie Ying",
     "Machine Learning/Math/Linear Algebra",
     "Machine Learning/Assets",
